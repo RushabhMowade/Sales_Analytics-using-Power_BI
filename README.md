@@ -31,13 +31,13 @@ The report includes high-level KPIs, time-based trend analysis, and detailed pro
 ## Dashboard Preview  
 
 ### Sales Overview  
-![Sales Overview](images/sales_overview.png)
+![Sales Overview](Images/sales_overview.png)
 
 ### Orders by Top-10 Products  
-![Orders by Products](images/orders_top_products.png)
+![Orders by Products](Images/orders_top_products.png)
 
 ### Net Sales by Top-10 Products  
-![Net Sales by Products](images/net_sales_top_products.png)
+![Net Sales by Products](Images/net_sales_top_products.png)
 
 ## Sample Insights  
 - Sales exhibit **clear monthly trends and seasonality**  
@@ -52,5 +52,5 @@ The report includes high-level KPIs, time-based trend analysis, and detailed pro
 3. Use slicers to filter by country and segment  
 4. Navigate between pages using interactive buttons  
 
----
+----
 
