@@ -1,6 +1,8 @@
-# Sales Analytics Dashboard using Power BI  
+# ***Sales Analytics Dashboard using Power BI***  
 
-## Overview  
+## Overview
+This is my first project built using Power BI and was created during my initial learning phase. While the dashboard focuses on core analytics concepts and fundamental visualizations, it reflects my understanding of data modeling, DAX basics, and interactive reporting.
+
 This project presents an interactive **Sales Analytics Dashboard** built using Power BI to analyze the performance of a single organization. The dashboard provides insights into **sales trends, profit, units sold, product performance, and regional contributions**, enabling stakeholders to make data-driven business decisions.
 
 The report includes high-level KPIs, time-based trend analysis, and detailed product-level breakdowns with interactive navigation.
